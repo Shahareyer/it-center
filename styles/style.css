@@ -1,3 +1,25 @@
+#it-center {
+    font-size: 50px;
+    color: #4A4A4A;
+}
+
 .banner {
-    height: 600px;
+    height: 700px;
+}
+
+.heading-size {
+    font-size: 80px;
+}
+
+.banner-font {
+    margin-bottom: 170px;
+}
+
+.It-button {
+    color: white;
+    background-color: #289BDE;
+    padding: 9px 25px;
+    border-radius: 8px;
+    border: 0;
+    margin-top: 20px;
 }
