@@ -18,8 +18,9 @@
 .It-button {
     color: white;
     background-color: #289BDE;
-    padding: 9px 25px;
+    padding: 13px 25px;
     border-radius: 8px;
     border: 0;
+    font-size: 20px;
     margin-top: 20px;
 }
