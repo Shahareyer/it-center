@@ -19,8 +19,23 @@
     color: white;
     background-color: #289BDE;
     padding: 13px 25px;
-    border-radius: 8px;
+    border-radius: 5px;
     border: 0;
-    font-size: 20px;
+    font-size: 22px;
     margin-top: 20px;
+}
+
+.register-btn {
+    font-size: 22px;
+    color: #289BDE;
+    background-color: white;
+    border: 0;
+    text-decoration: none;
+    padding: 13px 25px;
+    border-radius: 5px;
+}
+
+.b {
+    background-color: white;
+    padding: 13px 25px;
 }
